@@ -1,0 +1,13 @@
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\obj\Debug\netcoreapp3.1\Teste c#.csprojAssemblyReference.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\obj\Debug\netcoreapp3.1\Teste c#.AssemblyInfoInputs.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\obj\Debug\netcoreapp3.1\Teste c#.AssemblyInfo.cs
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\obj\Debug\netcoreapp3.1\Teste c#.csproj.CoreCompileInputs.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\bin\Debug\netcoreapp3.1\Teste c#.exe
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\bin\Debug\netcoreapp3.1\Teste c#.deps.json
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\bin\Debug\netcoreapp3.1\Teste c#.runtimeconfig.json
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\bin\Debug\netcoreapp3.1\Teste c#.runtimeconfig.dev.json
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\bin\Debug\netcoreapp3.1\Teste c#.dll
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\bin\Debug\netcoreapp3.1\Teste c#.pdb
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\obj\Debug\netcoreapp3.1\Teste c#.dll
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\obj\Debug\netcoreapp3.1\Teste c#.pdb
+C:\Users\CCE\OneDrive\Área de Trabalho\Teste c#\obj\Debug\netcoreapp3.1\Teste c#.genruntimeconfig.cache
